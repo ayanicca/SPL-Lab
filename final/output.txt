@@ -1,0 +1,112 @@
+Student 1
+Name:Alman
+ID:011073054
+Subject 1 marks:10.0 20.0 28.0 37.0 
+Subject 2 marks:10.0 18.0 30.0 35.0 
+Subject 3 marks:10.0 15.0 18.0 34.0 
+CGPA:3.8
+Student 2
+Name:Ayan
+ID:011193103
+Subject 1 marks:10.0 18.0 22.0 35.0 
+Subject 2 marks:9.0 19.0 24.0 34.0 
+Subject 3 marks:10.0 17.0 18.0 29.0 
+CGPA:3.6
+Student 3
+Name:sagor
+ID:011193104
+Subject 1 marks:10.0 18.0 27.0 38.0 
+Subject 2 marks:9.0 17.0 25.0 33.0 
+Subject 3 marks:10.0 19.0 17.0 32.0 
+CGPA:3.2
+Student 4
+Name:Feroz
+ID:011045875
+Subject 1 marks:10.0 19.0 27.0 31.0 
+Subject 2 marks:10.0 18.0 30.0 31.0 
+Subject 3 marks:10.0 15.0 17.0 38.0 
+CGPA:3.7
+Student 5
+Name:Osman
+ID:011193141
+Subject 1 marks:9.0 20.0 25.0 30.0 
+Subject 2 marks:10.0 20.0 25.0 37.0 
+Subject 3 marks:10.0 17.0 18.0 34.0 
+CGPA:3.4
+Student 6
+Name:Kobir
+ID:011073043
+Subject 1 marks:10.0 20.0 28.0 37.0 
+Subject 2 marks:10.0 18.0 30.0 35.0 
+Subject 3 marks:10.0 15.0 18.0 34.0 
+CGPA:3.2
+Student 7
+Name:Nayem
+ID:011073101
+Subject 1 marks:10.0 20.0 28.0 37.0 
+Subject 2 marks:10.0 18.0 30.0 35.0 
+Subject 3 marks:10.0 15.0 18.0 34.0 
+CGPA:3.5
+Student 8
+Name:Shaon
+ID:011193103
+Subject 1 marks:10.0 20.0 25.0 30.0 
+Subject 2 marks:10.0 20.0 25.0 37.0 
+Subject 3 marks:10.0 17.0 18.0 34.0 
+CGPA:3.6
+Student 9
+Name:Shohidul
+ID:011073056
+Subject 1 marks:10.0 20.0 28.0 37.0 
+Subject 2 marks:10.0 18.0 30.0 35.0 
+Subject 3 marks:10.0 15.0 18.0 34.0 
+CGPA:2.9
+Student 10
+Name:Rifat
+ID:011073069
+Subject 1 marks:10.0 20.0 28.0 37.0 
+Subject 2 marks:10.0 18.0 30.0 35.0 
+Subject 3 marks:10.0 15.0 18.0 34.0 
+CGPA:3.2
+Student 1
+Subject 1 total:95.0 
+Subject 2 total:93.0 
+Subject 3 total:77.0 
+Student 2
+Subject 1 total:85.0 
+Subject 2 total:86.0 
+Subject 3 total:74.0 
+Student 3
+Subject 1 total:93.0 
+Subject 2 total:84.0 
+Subject 3 total:78.0 
+Student 4
+Subject 1 total:87.0 
+Subject 2 total:89.0 
+Subject 3 total:80.0 
+Student 5
+Subject 1 total:84.0 
+Subject 2 total:92.0 
+Subject 3 total:79.0 
+Student 6
+Subject 1 total:95.0 
+Subject 2 total:93.0 
+Subject 3 total:77.0 
+Student 7
+Subject 1 total:95.0 
+Subject 2 total:93.0 
+Subject 3 total:77.0 
+Student 8
+Subject 1 total:85.0 
+Subject 2 total:92.0 
+Subject 3 total:79.0 
+Student 9
+Subject 1 total:95.0 
+Subject 2 total:93.0 
+Subject 3 total:77.0 
+Student 10
+Subject 1 total:95.0 
+Subject 2 total:93.0 
+Subject 3 total:77.0 
+Maximum CGPA: 3.8 
+Minimum CGPA: 2.9 

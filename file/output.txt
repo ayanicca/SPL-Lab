@@ -1,0 +1,39 @@
+Ayan Khan
+193103
+87.00
+85.00
+55.00
+Shahriar Rahman Shaon
+193102
+89.00
+55.00
+68.00
+Feroz Alam
+193141
+78.00
+85.00
+75.00
+Sompa raza Kona
+193101
+90.00
+75.00
+90.00
+Nayemur rahaman
+192104
+80.00
+70.00
+92.00
+**Average marks of each student**
+Ayan Khan
+75.67 
+Shahriar Rahman Shaon
+70.67 
+Feroz Alam
+79.33 
+Sompa raza Kona
+85.00 
+Nayemur rahaman
+80.67 
+**Name and id of the student with maximum total marks**
+Sompa raza Kona
+193101

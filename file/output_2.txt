@@ -1,0 +1,6 @@
+The reverse of string 1:
+ytisrevinU lanoitanretnI detinU
+The length of string 2: 3
+U
+E
+The concatenation of string 1 and string 2: United International UniversityCSE
